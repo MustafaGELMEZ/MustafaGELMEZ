@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Mustafa GELMEZ</h1>
+<h1 align="center">Hi, I'm Mustafa GELMEZ</h1>
 <h3 align="center">I am a passionate embedded systems and vision developer from Turkey. I strive to enhance my skills and knowledge, focusing on creating efficient and reliable solutions in these fields.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mustafagelmez&label=Profile%20views&color=0e75b6&style=flat" alt="mustafagelmez" /> </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Sosyal Medya | Social Media:</h3>
 <p align="left">
 <a href="https://twitter.com/mustafa_gelmez_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mustafa_gelmez_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in//in/mustafa-gelmez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/in/mustafa-gelmez" height="30" width="40" /></a>

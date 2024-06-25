@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Mustafa GELMEZ</h1>
-<h3 align="center">I am a passionate embedded systems and vision developer from Turkey. I strive to enhance my skills and knowledge, focusing on creating efficient and reliable solutions in these fields.</h3>
+<h3 align="center">I am a passionate embedded systems and computer vision developer from Turkey. I strive to enhance my skills and knowledge, focusing on creating efficient and reliable solutions in these fields.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mustafagelmez&label=Profile%20views&color=0e75b6&style=flat" alt="mustafagelmez" /> </p>
 
